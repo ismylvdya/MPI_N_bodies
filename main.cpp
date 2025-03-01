@@ -222,7 +222,7 @@ void generateBody(Body& body) {   //генерировать данные для
 void GenDataInFile(int N, const string filename) {   // создать файл и записать туда сгенерированные данные
     ofstream out(filename);
     if (!out) {
-        cerr << "File not found" << endl;
+        cerr << "File not found!" << endl;
         exit(1);
     }
     out << N << "\n";

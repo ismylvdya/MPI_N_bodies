@@ -1,12 +1,12 @@
 [//]: # (<p align="center">)
 
-[//]: # (      <img src="images/cover.gif" width="93%">)
+[//]: # (      <img src="images/cover2.gif" width="93%">)
 
 [//]: # (</p>)
 
 # 🥎 Моделирование движения N тел с использованием MPI
 
-<img src="images/DNA_4.gif" width="49%"/> <img src="images/DNA_2.gif" width="49%"/>
+<img src="images/DNA4.gif" width="49%"/> <img src="images/DNA2.gif" width="49%"/>
 
 ## 🏀 Описание задания
 
@@ -66,7 +66,7 @@
 | 150000             | 157.414                  | 43.1081   | 3.651610718              | 27.8758   | 5.646976948              | 17.8682    | 8.809729016                | 12.201     | 12.90172937                |
 | 200000             | 281.184                  | 88.8771   | 3.163739591              | 57.4551   | 4.89397808               | 32.1883    | 8.735596474                | 22.6376    | 12.42110471                |
 
-<img src="images/speedup_10_000bodies.png" width="32%"/> <img src="images/speedup_20_000bodies.png" width="32%"/> <img src="images/speedup_150_000bodies.png" width="32%"/>
+<img src="images/speedup_10_000_bodies.png" width="32%"/> <img src="images/speedup_20_000_bodies.png" width="32%"/> <img src="images/speedup_150_000_bodies.png" width="32%"/>
 
 здесь и далее `np` -- количество потоков
 
